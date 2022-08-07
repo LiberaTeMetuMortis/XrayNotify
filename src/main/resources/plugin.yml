@@ -1,0 +1,7 @@
+name: XrayNotify
+version: '${project.version}'
+main: me.metumortis.xraynotify.XrayNotify
+api-version: 1.18
+commands:
+  xraynotify:
+      description: "Main command"
